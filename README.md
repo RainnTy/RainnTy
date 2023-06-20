@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’ve recently graduated as a Software Engineer<br>🤝 I’m looking to improve and learn about various subject<br>🌱 I’m currently learning React and Game Dev<br>💬 Ask me about anything...really<br>⚡ I'm quite passionate about drawing, reading and gaming
+🔭 I’ve recently graduated as a Software Engineer<br>🤝 I’m looking to improve and learn about various subjects<br>🌱 I’m currently learning React and Game Dev<br>💬 Ask me about anything...really<br>⚡ I'm quite passionate about drawing, reading and gaming
 
 
 # 💻 Tech Stack:
