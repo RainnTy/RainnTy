@@ -1,4 +1,4 @@
-![Shadir's GitHub Banner](https://i.pinimg.com/originals/17/12/2a/17122ab5d77dcfcdcc1d0d24212e29b6.jpg)
+![Shadir's GitHub Banner](https://mir-s3-cdn-cf.behance.net/project_modules/fs/26a50266109353.5b0b7773dc0c4.jpg)
 
 # 💫 About Me:
 🔭 I’ve recently graduated as a Software Engineer<br>🤝 I’m looking to improve and learn about various subjects<br>🌱 I’m currently learning React and Game Dev<br>💬 Ask me about anything...really<br>⚡ I'm quite passionate about drawing, reading and gaming
