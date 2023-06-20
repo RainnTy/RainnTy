@@ -1,3 +1,5 @@
+![Shadir's GitHub Banner](https://i.pinimg.com/originals/4d/cd/2b/4dcd2b0683166a03818579c3d8d0e07e.jpg)
+
 # 💫 About Me:
 🔭 I’ve recently graduated as a Software Engineer<br>🤝 I’m looking to improve and learn about various subjects<br>🌱 I’m currently learning React and Game Dev<br>💬 Ask me about anything...really<br>⚡ I'm quite passionate about drawing, reading and gaming
 
@@ -7,13 +9,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RainnTy&theme=jolly&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RainnTy&theme=jolly&hide_border=true)<br/>
-username=RainnTy&theme=jolly&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RainnTy&icon=0&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
